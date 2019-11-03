@@ -1,5 +1,5 @@
 简介
-Qure是一套专为Quantumult X内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。
+是一套专为Quantumult X内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。
 
 使用说明
 方式一：远程图标(推荐)
@@ -8,8 +8,8 @@ Qure是一套专为Quantumult X内策略组而精心设计的图标组。在这�
 
 1.在IconSet页面找到需要的策略组图标并记下图标名称（效果图预览，不含归档图标）
 2.在Quantumult X的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上
-img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名称.png
-(例：static=Hong Kong, hong_kong01, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hong_Kong.png
+img-url=https://raw.githubusercontent.com/guardiora/qxicon/master/IconSet/图标名称.png
+(例：static=Hong Kong, hong_kong01, img-url=https://raw.githubusercontent.com/guardiora/qxicon/master/IconSet/Hong_Kong.png
 注意：此处“img”前的英文逗号和空格以及“Hong_Kong.png”图标名称中的下划短横线和字母大小写)
 3.重启Quantumult X即可见到效果
 更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启Quantumult X，远程图标会重新下载并生效。
