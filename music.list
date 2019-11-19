@@ -1,0 +1,34 @@
+# (music)
+# (Music)
+# > Deezer
+USER-AGENT,Deezer*,music
+DOMAIN-SUFFIX,deezer.com,music
+DOMAIN-SUFFIX,dzcdn.net,music
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com,music
+DOMAIN-SUFFIX,kkbox.com.tw,music
+DOMAIN-SUFFIX,kfs.io,music
+# > JOOX
+USER-AGENT,WeMusic*,music
+USER-AGENT,JOOX*,music
+DOMAIN-SUFFIX,joox.com,music
+# > Pandora
+USER-AGENT,Pandora*,music
+DOMAIN-SUFFIX,pandora.com,music
+# > SoundCloud
+USER-AGENT,SoundCloud*,music
+DOMAIN-SUFFIX,p-cdn.us,music
+DOMAIN-SUFFIX,sndcdn.com,music
+DOMAIN-SUFFIX,soundcloud.com,music
+# > Spotify
+USER-AGENT,Spotify*,music
+DOMAIN-SUFFIX,pscdn.co,music
+DOMAIN-SUFFIX,scdn.co,music
+DOMAIN-SUFFIX,spotify.com,music
+DOMAIN-SUFFIX,spoti.fi,music
+# > TIDAL
+USER-AGENT,TIDAL*,GlobalMedia
+DOMAIN-SUFFIX,tidal.com,music
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,GlobalMedia
+USER-AGENT,YouTubeMusic*,music
