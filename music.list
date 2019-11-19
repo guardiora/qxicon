@@ -27,8 +27,8 @@ DOMAIN-SUFFIX,scdn.co,music
 DOMAIN-SUFFIX,spotify.com,music
 DOMAIN-SUFFIX,spoti.fi,music
 # > TIDAL
-USER-AGENT,TIDAL*,GlobalMedia
+USER-AGENT,TIDAL*,music
 DOMAIN-SUFFIX,tidal.com,music
 # > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,GlobalMedia
+USER-AGENT,com.google.ios.youtubemusic*,music
 USER-AGENT,YouTubeMusic*,music
